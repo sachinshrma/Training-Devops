@@ -12,10 +12,12 @@ This repo contains the details about completed/ongoing tasks as part of devOps t
     - Forked a java project and added pipeline script. **[View](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/JenkinsJob/Jenkinsfile)**
     - Executed Build, Test and Deploy stages, and deployed the artifacts on mavenrepo. **[Screenshots](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/Docs/DeployPipeline.pdf)**    
 <br/>
+
  3. ### Terraform Learning
     - Gained knowledge on terraform.
     - Written **AvailabilitySet** and **Shared Image Gallery** module for the usecase. **[View](https://github.com/sachinshrma/Training-Devops/tree/master/Terraform/Modules/Compute)**
 <br/>
+
  4. ### Python Learning
     - Attending python training which is ongoing and practicing the topics.
     - Wrote a python script for provisioning a virtual machine on Azure. **[View](https://github.com/sachinshrma/Training-Devops/tree/master/Python/Azure/Compute)**
