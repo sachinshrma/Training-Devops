@@ -4,7 +4,8 @@
 This repo contains the details about completed/ongoing tasks as part of devOps training(RD-2020 batch)
 
  1. ### Azure AZ 900 certification
-    - Following the Microsoft learning path for Azure Fundamentals from **[here](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)**.  Completed **9 out of 12** modules.
+    - Following the Microsoft learning path for Azure Fundamentals from **[here](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)**.  **Completed**
+    - Practicing questions from AZ 900 dumps.
 <br/>
 
  2. ### Jenkins tasks
