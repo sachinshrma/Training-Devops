@@ -12,7 +12,6 @@ This repo contains the details about completed/ongoing tasks as part of devOps t
     -  Created a virtual machine on azure and installed Jenkins on it. **[Screenshots](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/Docs/InstallJenkins.pdf)**
     - Forked a java project and added pipeline script. **[View](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/JenkinsJob/Jenkinsfile)**
     - Executed Build, Test and Deploy stages, and deployed the artifacts on mavenrepo. **[Screenshots](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/Docs/DeployPipeline.pdf)**    
-    - Added an ubuntu slave node to Jenkins sever. **[Screenshots](https://github.com/sachinshrma/Training-Devops/blob/master/Jenkins/Docs/DeployPipeline.pdf)**    
 <br/>
 
  3. ### Terraform Learning
