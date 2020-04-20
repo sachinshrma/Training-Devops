@@ -23,4 +23,12 @@ This repo contains the details about completed/ongoing tasks as part of devOps t
  4. ### Python Learning
     - Attending python training which is ongoing and practicing the topics.
     - Wrote a python script for provisioning a virtual machine on Azure. **[View](https://github.com/sachinshrma/Training-Devops/tree/master/Python/Azure/Compute)**
+ <br/>
+ 
+ 5. ### CI/CD usecase **[link](https://github.com/sachinshrma/spring-petclinic)**
+    - Created CI pipeline which builds and test the spring webapp.
+    - Added code analysis stage which analyses the java code using sonarcloud.
+    - Added Containerization stage which containerizes the application using docker and pushes the image to docker hub.
+    - Added deploy stage which provisions a vm on azure and then run the application container on that vm.
+    - Added Email notification step which sends the build status to enmail after every build.
 
