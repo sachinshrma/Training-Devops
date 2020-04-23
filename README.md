@@ -30,5 +30,7 @@ This repo contains the details about completed/ongoing tasks as part of devOps t
     - Added code analysis stage which analyses the java code using sonarcloud.
     - Added Containerization stage which containerizes the application using docker and pushes the image to docker hub.
     - Added deploy stage which provisions a vm on azure and then run the application container on that vm.
-    - Added Email notification step which sends the build status to enmail after every build.
+    - Added Email notification step which sends the build status to email after every build.
+    - Deployed multi-container app on Azure web apps.
+    - Created Kubernetes cluster on Aks and deployed spring application and mysql pods on that. Also exposed the application pods to internet using loadbalancer.
 
